@@ -314,6 +314,7 @@ h1, h2, h3, h4, h5, h6, figure {
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
     height: 600px;
+    padding: 8px;
   }
 }
 .fh5co-cover.fh5co-cover-sm {
@@ -1191,7 +1192,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
-  margin-bottom: 0px !important;
+  margin-bottom: 20px !important;
   font-weight: 300;
 }
 #fh5co-started .fh5co-heading p {
