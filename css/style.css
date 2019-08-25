@@ -308,13 +308,13 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 900px;
   display: table;
   width: 100%;
-  padding: 8px;
+  padding: 40px;
 }
 @media screen and (max-width: 1281px) {
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
     height: 600px;
-    padding: 8px;
+    padding: 40px;
   }
 }
 .fh5co-cover.fh5co-cover-sm {
