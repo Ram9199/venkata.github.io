@@ -11,6 +11,7 @@
 	    	if ( $('body').hasClass('offcanvas') ) {
 
     			$('body').removeClass('offcanvas');
+                        $('body').css('background','white');
     			$('.js-fh5co-nav-toggle').removeClass('active');
 				
 	    	}

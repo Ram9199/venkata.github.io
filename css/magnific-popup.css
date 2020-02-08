@@ -83,7 +83,7 @@
   display: none !important; }
 
 .mfp-preloader {
-  color: #cccccc;
+  color: #000000;
   position: absolute;
   top: 50%;
   width: auto;
